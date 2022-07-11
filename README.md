@@ -1,3 +1,3 @@
 <center>
-# Soy zFrozz!
+Soy zFrozz!
 </center>
