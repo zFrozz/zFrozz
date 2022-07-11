@@ -5,4 +5,4 @@
 <br>
 <h1> I Have a page!</h1> <a href="https://myhell.ml">Click Me To Visit!</a>
 <br>
-My Brother: <a href="https://github.com/Cl1ckerr">Cl1cker<333</a>
+<h1>My Brother</h1> <a href="https://github.com/Cl1ckerr">Cl1cker<333</a>
